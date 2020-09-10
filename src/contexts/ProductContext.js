@@ -1,7 +1,7 @@
 import { createContext } from "react";
 
-const ProductTree = createContext();
+const ProductContext = createContext();
 
-export default ProductTree;
+export default ProductContext;
 
 
